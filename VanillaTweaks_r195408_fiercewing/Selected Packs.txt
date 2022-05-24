@@ -1,0 +1,21 @@
+Vanilla Tweaks Resource Pack
+Version: 1.18
+Packs:
+	StemToLog
+	SplashXpBottle
+	ClearerWater
+	WavyWater
+	WavyLeaves
+	TwinklingStars
+	HungerPreview
+	ArabicNumerals
+	LowerFire
+	ShortSwords
+	MoreCrosshairs-UpArrow
+	PingColorIndicator
+	RainbowExperience
+	SmootherFont
+	LakesideSunset
+	ItemStitchingFix
+	DarkUI
+	BrewingGuide
