@@ -1,3 +1,6 @@
 # minecraft-resource-packs-mods
+mods will be in its own version folder
 
-any minecraft resource packs or mods that i use are here
+resourepacks are linked below
+Vanillatweaks (1.18.2) (https://vanillatweaks.net/share#kpjDpB)
+Celestial by Looshy (blue) (1.8.9) (https://www.youtube.com/watch?v=_IL5BTcP-YM)
